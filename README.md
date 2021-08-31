@@ -4,7 +4,18 @@ Redistribution software for Lisk delegate on mainnet (and testnet) after the mig
 
 **Still WIP, use at your own risk***
 
+How to install:
+```js
+{
+git clone https://github.com/TheBlaineMono/lisk-pool3
+sudo pip3 install --upgrade pip
+sudo apt install python-pip3
+apt-get install python3-pi3
 
+sudo pip3 install requests
+
+
+}
 ## Configuration
 Fork this repo; edit config.json and modify the first lines with your settings:
 
